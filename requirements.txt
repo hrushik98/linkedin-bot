@@ -1,0 +1,7 @@
+googlesearch-python
+openai
+pandas
+regex
+requests
+streamlit
+wget
